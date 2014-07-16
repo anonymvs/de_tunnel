@@ -9,10 +9,11 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+*.bsp
+*.log
+*.prt
+*.vmx
+*.lin
 
 # =========================
 # Operating System Files
@@ -26,8 +27,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
-
+Icon
 # Thumbnails
 ._*
 

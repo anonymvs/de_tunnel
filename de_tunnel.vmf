@@ -74792,14 +74792,14 @@ entity
 		}
 		editor
 		{
-			"color" "0 254 131"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "0 254 131"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1500]"
@@ -74914,7 +74914,7 @@ entity
 	"origin" "768.088 1263 215.939"
 	editor
 	{
-		"color" "0 132 209"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
@@ -74929,7 +74929,7 @@ entity
 	"origin" "793.66 1333.05 280"
 	editor
 	{
-		"color" "0 166 179"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -12768]"
@@ -74944,7 +74944,7 @@ entity
 	"origin" "794.632 1477.2 280"
 	editor
 	{
-		"color" "0 124 117"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -12268]"
@@ -74959,7 +74959,7 @@ entity
 	"origin" "881.09 1479.76 280"
 	editor
 	{
-		"color" "0 226 191"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -11768]"
@@ -74974,7 +74974,7 @@ entity
 	"origin" "869.837 1413.62 280"
 	editor
 	{
-		"color" "0 168 109"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -11268]"
@@ -74989,7 +74989,7 @@ entity
 	"origin" "872.529 1342.18 280"
 	editor
 	{
-		"color" "0 190 171"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -10768]"
@@ -75004,7 +75004,7 @@ entity
 	"origin" "961.566 1346.97 280"
 	editor
 	{
-		"color" "0 184 153"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -10268]"
@@ -75019,7 +75019,7 @@ entity
 	"origin" "958.815 1401.81 280"
 	editor
 	{
-		"color" "0 226 119"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -9768]"
@@ -75034,7 +75034,7 @@ entity
 	"origin" "943.957 1469.13 280"
 	editor
 	{
-		"color" "0 104 153"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -9268]"
@@ -76146,7 +76146,7 @@ entity
 	"origin" "801.829 1418 280"
 	editor
 	{
-		"color" "0 228 209"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2000 -1768]"

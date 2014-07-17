@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6455"
-	"mapversion" "64"
+	"mapversion" "65"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "64"
+	"mapversion" "65"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -4851,7 +4851,7 @@ world
 		side
 		{
 			"id" "10728"
-			"plane" "(1032 -116 121.898) (1072 -116 121.898) (1072 -122 121.898)"
+			"plane" "(1032 -122 121.898) (1032 -114 121.898) (1080 -114 121.898)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4862,7 +4862,7 @@ world
 		side
 		{
 			"id" "10729"
-			"plane" "(1032 -122 -160.102) (1072 -122 -160.102) (1072 -116 -160.102)"
+			"plane" "(1032 -114 -160.102) (1032 -122 -160.102) (1080 -122 -160.102)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4873,7 +4873,7 @@ world
 		side
 		{
 			"id" "10730"
-			"plane" "(1032 -116 121.898) (1032 -122 121.898) (1032 -122 -160.102)"
+			"plane" "(1032 -122 -160.102) (1032 -114 -160.102) (1032 -114 121.898)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4884,7 +4884,7 @@ world
 		side
 		{
 			"id" "10731"
-			"plane" "(1072 -116 -160.102) (1072 -122 -160.102) (1072 -122 121.898)"
+			"plane" "(1080 -114 -160.102) (1080 -122 -160.102) (1080 -122 121.898)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4895,7 +4895,7 @@ world
 		side
 		{
 			"id" "10732"
-			"plane" "(1072 -116 121.898) (1032 -116 121.898) (1032 -116 -160.102)"
+			"plane" "(1032 -114 -160.102) (1080 -114 -160.102) (1080 -114 121.898)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4906,7 +4906,7 @@ world
 		side
 		{
 			"id" "10733"
-			"plane" "(1072 -122 -160.102) (1032 -122 -160.102) (1032 -122 121.898)"
+			"plane" "(1080 -122 -160.102) (1032 -122 -160.102) (1032 -122 121.898)"
 			"material" "TOOLS/TOOLSINVISIBLELADDER"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -64593,7 +64593,7 @@ world
 		{
 			"id" "108"
 			"plane" "(-1280 64 0) (-1280 64 128) (1994 64 128)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "DEV/DEV_MEASURECRATE01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"

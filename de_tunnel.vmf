@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6455"
-	"mapversion" "146"
+	"mapversion" "147"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "146"
+	"mapversion" "147"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -90923,7 +90923,7 @@ entity
 	"angles" "-89 32 0"
 	"pitch" "-89"
 	"SunSpreadAngle" "0"
-	"origin" "-38 283 1278"
+	"origin" "-38 403 958"
 	editor
 	{
 		"color" "220 30 220"

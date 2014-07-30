@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6455"
-	"mapversion" "147"
+	"mapversion" "149"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "147"
+	"mapversion" "149"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -81109,7 +81109,7 @@ world
 		{
 			"id" "97"
 			"plane" "(-2208 388 8) (3840 388 8) (3840 188 8)"
-			"material" "LIQUIDS/INFERNO_WATER"
+			"material" "DEV/DEV_WATER2"
 			"uaxis" "[1 0 0 40] 0.25"
 			"vaxis" "[0 -1 0 104] 0.25"
 			"rotation" "0"
@@ -82434,6 +82434,21 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
+	}
+}
+entity
+{
+	"id" "218158"
+	"classname" "water_lod_control"
+	"cheapwaterenddistance" "2000"
+	"cheapwaterstartdistance" "1000"
+	"origin" "286.995 294 122"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 entity

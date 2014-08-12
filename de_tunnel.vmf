@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6455"
-	"mapversion" "184"
+	"mapversion" "185"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "184"
+	"mapversion" "185"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -6879,7 +6879,7 @@ world
 		side
 		{
 			"id" "33939"
-			"plane" "(967 1536 109) (967 1540 109) (1095 1540 109)"
+			"plane" "(967 1538 109) (1095 1538 109) (1095 1536 109)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 -35.5] 2"
 			"vaxis" "[0 -1 0 0] 0.0625"
@@ -6890,7 +6890,7 @@ world
 		side
 		{
 			"id" "33938"
-			"plane" "(1095 1540 55) (1095 1536 55) (1095 1536 109)"
+			"plane" "(1095 1536 55) (1095 1536 109) (1095 1538 109)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.0625"
 			"vaxis" "[0 0 -1 1.18518] 0.84375"
@@ -6901,7 +6901,7 @@ world
 		side
 		{
 			"id" "33937"
-			"plane" "(1095 1540 55) (1095 1540 109) (967 1540 109)"
+			"plane" "(1095 1538 55) (1095 1538 109) (967 1538 109)"
 			"material" "GLASS/PRODWNDWA"
 			"uaxis" "[1 0 0 -284] 0.25"
 			"vaxis" "[0 0 -1 9.48145] 0.105469"
@@ -6912,7 +6912,7 @@ world
 		side
 		{
 			"id" "33936"
-			"plane" "(1095 1536 55) (967 1536 109) (1095 1536 109)"
+			"plane" "(967 1536 109) (1095 1536 109) (1095 1536 55)"
 			"material" "GLASS/PRODWNDWA"
 			"uaxis" "[1 0 0 -35.5] 0.25"
 			"vaxis" "[0 0 -1 1.18518] 0.25"
@@ -6923,7 +6923,7 @@ world
 		side
 		{
 			"id" "33935"
-			"plane" "(967 1540 109) (967 1536 109) (1095 1536 55)"
+			"plane" "(967 1538 109) (967 1536 109) (1095 1536 55)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 -35.5] 2"
 			"vaxis" "[0 -1 0 0] 0.0625"
@@ -97557,8 +97557,8 @@ world
 		{
 			"id" "9832"
 			"plane" "(467 520 -176) (467 880 -176) (467 880 109)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 12] 0.25"
+			"material" "DEV/DEV_MEASUREHALL01"
+			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -110432,7 +110432,7 @@ world
 		{
 			"id" "97"
 			"plane" "(-2208 388 8) (3840 388 8) (3840 188 8)"
-			"material" "DEV/DEV_WATER2"
+			"material" "DEV/DEV_WATER2_CHEAP"
 			"uaxis" "[1 0 0 40] 0.25"
 			"vaxis" "[0 -1 0 104] 0.25"
 			"rotation" "0"
@@ -110443,7 +110443,7 @@ world
 		{
 			"id" "98"
 			"plane" "(-2208 192.02 0) (3840 192.02 0) (3840 383.98 0)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "DEV/DEV_WATER2_CHEAP"
 			"uaxis" "[1 0 0 40] 0.25"
 			"vaxis" "[0 -1 0 40] 0.25"
 			"rotation" "0"
@@ -110454,7 +110454,7 @@ world
 		{
 			"id" "99"
 			"plane" "(-2208 383.98 0) (-2208 388 8) (-2208 188 8)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "DEV/DEV_WATER2_CHEAP"
 			"uaxis" "[0 1 0 -40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110465,7 +110465,7 @@ world
 		{
 			"id" "100"
 			"plane" "(3840 192.02 0) (3840 188 8) (3840 388 8)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "DEV/DEV_WATER2_CHEAP"
 			"uaxis" "[0 1 0 -40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110476,7 +110476,7 @@ world
 		{
 			"id" "101"
 			"plane" "(3840 383.98 0) (3840 388 8) (-2208 388 8)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "DEV/DEV_WATER2_CHEAP"
 			"uaxis" "[1 0 0 40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110487,7 +110487,7 @@ world
 		{
 			"id" "102"
 			"plane" "(-2208 192.02 0) (-2208 188 8) (3840 188 8)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "DEV/DEV_WATER2_CHEAP"
 			"uaxis" "[1 0 0 40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"

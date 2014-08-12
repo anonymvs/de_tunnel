@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6455"
-	"mapversion" "185"
+	"mapversion" "186"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "185"
+	"mapversion" "186"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -110443,7 +110443,7 @@ world
 		{
 			"id" "98"
 			"plane" "(-2208 192.02 0) (3840 192.02 0) (3840 383.98 0)"
-			"material" "DEV/DEV_WATER2_CHEAP"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.25"
 			"vaxis" "[0 -1 0 40] 0.25"
 			"rotation" "0"
@@ -110454,7 +110454,7 @@ world
 		{
 			"id" "99"
 			"plane" "(-2208 383.98 0) (-2208 388 8) (-2208 188 8)"
-			"material" "DEV/DEV_WATER2_CHEAP"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 -40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110465,7 +110465,7 @@ world
 		{
 			"id" "100"
 			"plane" "(3840 192.02 0) (3840 188 8) (3840 388 8)"
-			"material" "DEV/DEV_WATER2_CHEAP"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 -40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110476,7 +110476,7 @@ world
 		{
 			"id" "101"
 			"plane" "(3840 383.98 0) (3840 388 8) (-2208 388 8)"
-			"material" "DEV/DEV_WATER2_CHEAP"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -110487,7 +110487,7 @@ world
 		{
 			"id" "102"
 			"plane" "(-2208 192.02 0) (-2208 188 8) (3840 188 8)"
-			"material" "DEV/DEV_WATER2_CHEAP"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"

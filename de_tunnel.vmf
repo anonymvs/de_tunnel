@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6455"
-	"mapversion" "210"
+	"mapversion" "211"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "210"
+	"mapversion" "211"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -26318,82 +26318,6 @@ world
 		editor
 		{
 			"color" "0 217 210"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "242044"
-		side
-		{
-			"id" "29086"
-			"plane" "(617 63 109) (632 63 109) (632 -86 109)"
-			"material" "DEV/DEV_MEASUREHALL01"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29087"
-			"plane" "(617 -86 -16) (632 -86 -16) (632 63 -16)"
-			"material" "DEV/DEV_MEASUREHALL01"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29088"
-			"plane" "(617 63 109) (617 -86 109) (617 -86 -16)"
-			"material" "DEV/DEV_MEASUREHALL01"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29089"
-			"plane" "(632 63 -16) (632 -86 -16) (632 -86 109)"
-			"material" "DEV/DEV_MEASUREHALL01"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29090"
-			"plane" "(632 63 109) (617 63 109) (617 63 -16)"
-			"material" "DEV/DEV_MEASUREHALL01"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29091"
-			"plane" "(632 -86 -16) (617 -86 -16) (617 -86 109)"
-			"material" "DEV/DEV_MEASUREHALL01"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 159 144"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -75034,7 +74958,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1341.7 1375.04 247"
+	"origin" "1347.76 1375.04 226"
 	editor
 	{
 		"color" "220 30 220"
@@ -75051,7 +74975,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1336.62 606.168 247"
+	"origin" "1342.68 606.168 226"
 	editor
 	{
 		"color" "220 30 220"
@@ -75068,7 +74992,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1335.04 807.042 247"
+	"origin" "1344 807.042 226"
 	editor
 	{
 		"color" "220 30 220"
@@ -75085,7 +75009,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1343.94 991.898 247"
+	"origin" "1344 991.898 226"
 	editor
 	{
 		"color" "220 30 220"
@@ -75102,7 +75026,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1667.42 798.948 247"
+	"origin" "1664 798.948 227"
 	editor
 	{
 		"color" "220 30 220"
@@ -75119,7 +75043,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1829.32 602.66 247"
+	"origin" "1824 602.66 226"
 	editor
 	{
 		"color" "220 30 220"
@@ -75136,7 +75060,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1822.4 991.699 247"
+	"origin" "1823.08 991.699 226"
 	editor
 	{
 		"color" "220 30 220"
@@ -75153,7 +75077,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1820.61 1378.18 247"
+	"origin" "1824 1378.18 226"
 	editor
 	{
 		"color" "220 30 220"
@@ -75170,7 +75094,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1658.51 1379.01 247"
+	"origin" "1664 1379.01 227"
 	editor
 	{
 		"color" "220 30 220"
@@ -75187,7 +75111,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1152 992.413 247"
+	"origin" "1151.1 992.413 227"
 	editor
 	{
 		"color" "220 30 220"
@@ -75204,7 +75128,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1151.9 792.533 247"
+	"origin" "1151 792.533 227"
 	editor
 	{
 		"color" "220 30 220"
@@ -75221,7 +75145,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "1154.56 607.747 247"
+	"origin" "1153.66 607.747 227"
 	editor
 	{
 		"color" "220 30 220"
@@ -77978,8 +77902,9 @@ entity
 {
 	"id" "306778"
 	"classname" "infodecal"
+	"angles" "0 0 0"
 	"texture" "decals/vent01"
-	"origin" "2016 1113.91 195.68"
+	"origin" "2016 1063 195.68"
 	editor
 	{
 		"color" "220 30 220"
@@ -81902,23 +81827,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 5500]"
-	}
-}
-entity
-{
-	"id" "207235"
-	"classname" "light"
-	"_light" "255 255 255 200"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"origin" "642 89.3123 -14.8297"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
 	}
 }
 entity

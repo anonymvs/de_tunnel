@@ -62345,32 +62345,10 @@ world
 	}
 	group
 	{
-		"id" "298748"
-		editor
-		{
-			"color" "0 168 153"
-			"groupid" "297726"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "300769"
 		editor
 		{
 			"color" "220 220 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "301827"
-		editor
-		{
-			"color" "220 220 220"
-			"groupid" "300769"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -62881,17 +62859,6 @@ world
 	}
 	group
 	{
-		"id" "105373"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "104147"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "114600"
 		editor
 		{
@@ -62940,17 +62907,6 @@ world
 		{
 			"color" "0 218 139"
 			"groupid" "114609"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "114615"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "114612"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -63170,16 +63126,6 @@ world
 		editor
 		{
 			"color" "220 220 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "38129"
-		editor
-		{
-			"color" "197 178 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}

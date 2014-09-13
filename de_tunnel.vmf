@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6525"
-	"mapversion" "233"
+	"mapversion" "234"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "233"
+	"mapversion" "234"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -62130,126 +62130,6 @@ world
 	}
 	group
 	{
-		"id" "329717"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330398"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330404"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330407"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330416"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330419"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330443"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330446"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330449"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330452"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330455"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "330458"
-		editor
-		{
-			"color" "174 135 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "331808"
 		editor
 		{
@@ -62357,66 +62237,6 @@ world
 		editor
 		{
 			"color" "237 254 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "323771"
-		editor
-		{
-			"color" "116 253 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "323772"
-		editor
-		{
-			"color" "116 253 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "324109"
-		editor
-		{
-			"color" "136 165 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "324110"
-		editor
-		{
-			"color" "136 165 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "324122"
-		editor
-		{
-			"color" "136 165 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "324130"
-		editor
-		{
-			"color" "136 165 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -62536,17 +62356,6 @@ world
 	}
 	group
 	{
-		"id" "299772"
-		editor
-		{
-			"color" "0 168 153"
-			"groupid" "298748"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "300769"
 		editor
 		{
@@ -62562,17 +62371,6 @@ world
 		{
 			"color" "220 220 220"
 			"groupid" "300769"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "302856"
-		editor
-		{
-			"color" "220 220 220"
-			"groupid" "301827"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -63094,72 +62892,6 @@ world
 	}
 	group
 	{
-		"id" "106623"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "98115"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "107888"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "100493"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "109162"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "101708"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "110448"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "102926"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "111744"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "104147"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "113052"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "105373"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "114600"
 		editor
 		{
@@ -63219,72 +62951,6 @@ world
 		{
 			"color" "0 218 139"
 			"groupid" "114612"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "114619"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "114615"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "114632"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "114612"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "114645"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "114609"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "114658"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "114606"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "114671"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "114603"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "114684"
-		editor
-		{
-			"color" "0 218 139"
-			"groupid" "114600"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -63539,16 +63205,56 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
-	group
+}
+entity
+{
+	"id" "334201"
+	"classname" "light"
+	"_light" "255 255 255 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-793.875 -163 534.494"
+	editor
 	{
-		"id" "211"
-		editor
-		{
-			"color" "197 178 0"
-			"groupid" "38129"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "334206"
+	"classname" "light"
+	"_light" "255 255 255 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-768.159 -583 522.503"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "334211"
+	"classname" "light"
+	"_light" "255 255 255 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1097.08 758 523.734"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
 	}
 }
 entity
@@ -94694,7 +94400,7 @@ entity
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "-1256 -155.008 542.403"
+	"origin" "-1256 -170 530"
 	editor
 	{
 		"color" "220 30 220"

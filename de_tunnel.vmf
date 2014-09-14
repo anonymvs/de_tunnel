@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6525"
-	"mapversion" "251"
+	"mapversion" "252"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "251"
+	"mapversion" "252"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -6923,9 +6923,9 @@ world
 		{
 			"id" "39942"
 			"plane" "(1422 788 5) (1422 1120 5) (1744 1120 5)"
-			"material" "CONCRETE/CONCRETECEILING001A"
-			"uaxis" "[1 0 0 -180] 0.25"
-			"vaxis" "[0 -1 0 -52] 0.25"
+			"material" "CONCRETE/BAGGAGE_CONCRETEFLOORA"
+			"uaxis" "[1 0 0 -213.068] 0.628906"
+			"vaxis" "[0 -1 0 191.229] 0.648438"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -6934,7 +6934,7 @@ world
 		{
 			"id" "39943"
 			"plane" "(1422 1120 0) (1422 788 0) (1744 788 0)"
-			"material" "CONCRETE/CONCRETECEILING001A"
+			"material" "CONCRETE/BAGGAGE_CONCRETEFLOORA"
 			"uaxis" "[1 0 0 -180] 0.25"
 			"vaxis" "[0 -1 0 -52] 0.25"
 			"rotation" "0"
@@ -6945,9 +6945,9 @@ world
 		{
 			"id" "39944"
 			"plane" "(1422 788 0) (1422 1120 0) (1422 1120 5)"
-			"material" "CONCRETE/CONCRETECEILING001A"
-			"uaxis" "[0 1 0 52] 0.25"
-			"vaxis" "[0 0 -1 60] 0.25"
+			"material" "CONCRETE/BAGGAGE_CONCRETEFLOORA"
+			"uaxis" "[0 0 1 504.049] 0.628906"
+			"vaxis" "[0 -1 0 191.229] 0.648438"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -6956,9 +6956,9 @@ world
 		{
 			"id" "39945"
 			"plane" "(1744 1120 0) (1744 788 0) (1744 788 5)"
-			"material" "CONCRETE/CONCRETECEILING001A"
-			"uaxis" "[0 1 0 52] 0.25"
-			"vaxis" "[0 0 -1 60] 0.25"
+			"material" "CONCRETE/BAGGAGE_CONCRETEFLOORA"
+			"uaxis" "[0 0 -1 7.94971] 0.628906"
+			"vaxis" "[0 -1 0 191.229] 0.648438"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -6967,9 +6967,9 @@ world
 		{
 			"id" "39946"
 			"plane" "(1422 1120 0) (1744 1120 0) (1744 1120 5)"
-			"material" "CONCRETE/CONCRETECEILING001A"
-			"uaxis" "[1 0 0 -180] 0.25"
-			"vaxis" "[0 0 -1 60] 0.25"
+			"material" "CONCRETE/BAGGAGE_CONCRETEFLOORA"
+			"uaxis" "[1 0 0 -213.068] 0.628906"
+			"vaxis" "[0 0 1 -7.71069] 0.648438"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -6978,9 +6978,9 @@ world
 		{
 			"id" "39947"
 			"plane" "(1744 788 0) (1422 788 0) (1422 788 5)"
-			"material" "CONCRETE/CONCRETECEILING001A"
-			"uaxis" "[1 0 0 -180] 0.25"
-			"vaxis" "[0 0 -1 60] 0.25"
+			"material" "CONCRETE/BAGGAGE_CONCRETEFLOORA"
+			"uaxis" "[1 0 0 -213.068] 0.628906"
+			"vaxis" "[0 0 -1 -504.289] 0.648438"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -47787,28 +47787,6 @@ world
 	}
 	group
 	{
-		"id" "345130"
-		editor
-		{
-			"color" "220 220 220"
-			"groupid" "343977"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "345153"
-		editor
-		{
-			"color" "220 220 220"
-			"groupid" "343977"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "331808"
 		editor
 		{
@@ -48004,83 +47982,10 @@ world
 	}
 	group
 	{
-		"id" "319762"
-		editor
-		{
-			"color" "143 132 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "285142"
 		editor
 		{
 			"color" "122 187 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "285719"
-		editor
-		{
-			"color" "202 179 0"
-			"groupid" "287824"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "285906"
-		editor
-		{
-			"color" "202 179 0"
-			"groupid" "287824"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "286025"
-		editor
-		{
-			"color" "202 179 0"
-			"groupid" "287824"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "286589"
-		editor
-		{
-			"color" "220 220 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "286598"
-		editor
-		{
-			"color" "220 220 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "286607"
-		editor
-		{
-			"color" "220 220 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -48111,36 +48016,6 @@ world
 		editor
 		{
 			"color" "202 179 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "288007"
-		editor
-		{
-			"color" "0 184 249"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "288016"
-		editor
-		{
-			"color" "0 150 227"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "288025"
-		editor
-		{
-			"color" "0 156 125"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -48233,27 +48108,6 @@ world
 		editor
 		{
 			"color" "166 183 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "275179"
-		editor
-		{
-			"color" "220 220 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "275286"
-		editor
-		{
-			"color" "231 232 0"
-			"groupid" "275529"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -48423,31 +48277,10 @@ world
 	}
 	group
 	{
-		"id" "142696"
-		editor
-		{
-			"color" "0 186 131"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "144097"
 		editor
 		{
 			"color" "220 220 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "145540"
-		editor
-		{
-			"color" "220 220 220"
-			"groupid" "144097"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -48653,16 +48486,6 @@ world
 	}
 	group
 	{
-		"id" "42689"
-		editor
-		{
-			"color" "175 144 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "38623"
 		editor
 		{
@@ -48691,6 +48514,78 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
+	}
+}
+entity
+{
+	"id" "351406"
+	"classname" "prop_static"
+	"angles" "0 89 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadowdepth" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"disableX360" "0"
+	"drawinfastreflection" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/props_lighting/light_shop.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"shadowdepthnocache" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "1536 992 233"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "351418"
+	"classname" "prop_static"
+	"angles" "0 89 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadowdepth" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"disableX360" "0"
+	"drawinfastreflection" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/props_lighting/light_shop.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"shadowdepthnocache" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "1537 1185 233"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 entity
@@ -65278,10 +65173,11 @@ entity
 	"_ambient" "255 255 255 20"
 	"_ambientHDR" "-1 -1 -1 1"
 	"_AmbientScaleHDR" "1"
-	"_light" "255 255 255 200"
+	"_light" "255 255 255 800"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
-	"angles" "0 0 0"
+	"angles" "-43 271 0"
+	"pitch" "-43"
 	"origin" "-220.769 555.141 850"
 	editor
 	{
@@ -87602,7 +87498,7 @@ entity
 	"shadowdepthnocache" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "1484 862 9.24998"
+	"origin" "1530 862 9.24998"
 	editor
 	{
 		"color" "255 255 0"
@@ -88410,7 +88306,7 @@ entity
 	"screenspacefade" "0"
 	"shadowdepthnocache" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1344 800 233"
 	editor
 	{
@@ -88446,7 +88342,7 @@ entity
 	"screenspacefade" "0"
 	"shadowdepthnocache" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1344 608 233"
 	editor
 	{

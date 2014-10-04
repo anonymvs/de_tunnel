@@ -1,0 +1,9 @@
+//Overview: scale 5.00, pos_x -2569, pos_y 3083
+
+"de_tunnel"
+{
+	"material"	"overviews/de_tunnel"
+	"pos_x"		"-2569"
+	"pos_y"		"3083"
+	"scale"		"5"
+}
